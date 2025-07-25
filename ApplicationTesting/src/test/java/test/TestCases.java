@@ -1,4 +1,4 @@
-package test;
+package testcase;
 
 import pages.Login;
 import org.openqa.selenium.By;
